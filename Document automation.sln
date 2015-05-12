@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Document automation", "Document automation\Document automation.csproj", "{6DBD2C5F-A428-4744-8187-2C83A0698013}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Document automation.Tests", "Document automation.Tests\Document automation.Tests.csproj", "{071E27C5-8703-4254-9EB7-4E8A2BFEC36D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CertificatesManager", "CertificatesManager\CertificatesManager.csproj", "{1572B81E-68C1-4166-8407-631F619E75A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DBD2C5F-A428-4744-8187-2C83A0698013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DBD2C5F-A428-4744-8187-2C83A0698013}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DBD2C5F-A428-4744-8187-2C83A0698013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DBD2C5F-A428-4744-8187-2C83A0698013}.Release|Any CPU.Build.0 = Release|Any CPU
+		{071E27C5-8703-4254-9EB7-4E8A2BFEC36D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{071E27C5-8703-4254-9EB7-4E8A2BFEC36D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{071E27C5-8703-4254-9EB7-4E8A2BFEC36D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{071E27C5-8703-4254-9EB7-4E8A2BFEC36D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1572B81E-68C1-4166-8407-631F619E75A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1572B81E-68C1-4166-8407-631F619E75A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1572B81E-68C1-4166-8407-631F619E75A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1572B81E-68C1-4166-8407-631F619E75A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
